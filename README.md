@@ -1,2 +1,2 @@
 # cssbox
-CSS Box demo
+CSS Box Model demo
